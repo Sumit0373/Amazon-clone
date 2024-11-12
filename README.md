@@ -17,7 +17,6 @@ To view the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
-
+   git clone https://github.com/Sumit0373/Amazon-clone.git
    
    open the index.html
